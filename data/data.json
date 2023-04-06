@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"My-PC",
+        "icon":"My-PC.png"
+    },
+    
+    {
+        "id":2,
+        "name":"Firefox",
+        "icon":"firefox.png"
+    },
+    {
+        "id":3,
+        "name":"Microsoft Edge",
+        "icon":"Edge.png"
+    },
+    {
+        "id":4,
+        "name":"Mincraft",
+        "icon":"Mincraft.png"
+    },
+    {
+        "id":5,
+        "name":"Safe",
+        "icon":"Safe.png"
+    },
+    {
+        "id":6,
+        "name":"Youtube",
+        "icon":"Youtube.png"
+    },
+    {
+        "id":7,
+        "name":"STR",
+        "icon":"Str.png"
+    }
+]
